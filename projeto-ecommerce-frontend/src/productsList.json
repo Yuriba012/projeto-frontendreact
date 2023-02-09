@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "name":"Camiseta Estampa Gato Sendo Abduzido Brilha No Escuro Preto",
+        "price":59.90,
+        "imgUrl":"https://img.lojasrenner.com.br/item/550584434/large/5.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Camiseta Alien Não é Abdução, é Resgate!",
+        "price":69.90,
+        "imgUrl":"https://www.lojanerd.com.br/wp-content/uploads/2021/05/camiseta_preta_abducao_1.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Camiseta Abdução Vaca Alien ET UFO OVNI Alienigena",
+        "price":64.90,
+        "imgUrl":"https://m.media-amazon.com/images/I/71vIslx1pfL._AC_SX466_.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Camiseta Astronauta Navegando na galaxia",
+        "price":64.90,
+        "imgUrl":"https://m.media-amazon.com/images/I/71ZqegMi8lL._AC_SX466_.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Camiseta Selfie no espaço Astronauta",
+        "price":45.90,
+        "imgUrl":"https://m.media-amazon.com/images/I/61n+HYqUCxL._AC_SX425_.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Camiseta Galáxias e Planetas",
+        "price":49.90,
+        "imgUrl":"https://www.useupdate.com.br/media/product/71b/camiseta-galaxias-e-planetas-3da.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Camiseta Astronauta",
+        "price":49.90,
+        "imgUrl":"https://www.useupdate.com.br/media/product/f43/camiseta-astronauta-8a1.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Galáxia Ocasional Camiseta",
+        "price":39.90,
+        "imgUrl":"https://img.ltwebstatic.com/images3_pi/2023/01/13/16735957663fbfc064ef178e0ec4b535eca5818f1e.webp"
+    },
+    {
+        "id":"9",
+        "name":"Camiseta Basica Astronauta Flutuando",
+        "price":39.99,
+        "imgUrl":"https://a-static.mlcdn.com.br/800x560/camiseta-basica-astronauta-flutuando-planetas-espaco-estrela-mecca/sevengroup/15945597822/de524744ddb9caa24d55f3982997b7ad.jpeg"
+    },
+    {
+        "id":"10",
+        "name":"Camiseta perdido no espaço",
+        "price":189.90,
+        "imgUrl":"https://cdn.shopify.com/s/files/1/0555/3160/2020/products/S71670cd7fa754c48886961c02c002dee2_750x.jpg?v=1656529953"
+    },
+    {
+        "id":"11",
+        "name":"Camiseta Por Favor Me Leva Nave Espacial",
+        "price":44.90,
+        "imgUrl":"https://http2.mlstatic.com/D_NQ_NP_829566-MLB50186892560_062022-O.webp"
+    },
+    {
+        "id":"12",
+        "name":"Camiseta Colorida ETs",
+        "price":68.49,
+        "imgUrl":"https://http2.mlstatic.com/D_NQ_NP_809184-MLB49387614743_032022-O.webp"
+    }
+]

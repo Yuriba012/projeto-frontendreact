@@ -15,7 +15,13 @@ export const Container = styled.article`
     border: 1px solid white;
     box-shadow: black 4px 4px 4px;
     :hover{
-        transform: scale(1.8);
+        transform: scale(1.6);
+    }
+    @media screen and (max-width: 1000px){
+        margin: 0;
+        :hover{
+            transform: scale(1);
+        }
     }
 `
 export const Button = styled.button`

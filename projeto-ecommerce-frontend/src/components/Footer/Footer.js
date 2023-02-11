@@ -6,7 +6,7 @@ import linkedin from '../..//assets/linkedin.png'
 export function Footer(){
     return(
         <Container>
-            <h4>Desenvolvido por Yuri Moralles - Fullstack Developer</h4>
+            <h4>Desenvolvido por Yuri Moralles - Full Stack Developer</h4>
             <span>yurimoralles@hotmail.com</span>
             <div>
                 <a href="https://www.instagram.com/ymoralles/" target={'blank'}>

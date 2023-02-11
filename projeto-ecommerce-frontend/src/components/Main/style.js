@@ -10,6 +10,11 @@ export const Container = styled.main`
     color: white;
     background: #292929;
     align-items: flex-start;
+    @media screen and (max-width: 1000px){
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 `
 export const Section = styled.section`
     border-radius: 30px;
@@ -19,6 +24,11 @@ export const Section = styled.section`
     grid-template-columns: 1fr 1fr;
     gap: 32px;
     justify-content: center;
+    @media screen and (max-width: 1000px){
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 `
 export const Title = styled.div`
     color: #00cccc;

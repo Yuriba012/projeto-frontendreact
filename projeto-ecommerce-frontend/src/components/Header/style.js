@@ -15,4 +15,12 @@ export const Container = styled.header`
         width: 230px;
         justify-content: space-between;
     }
+    @media screen and (max-width: 1000px){
+        padding: 20px 20px;
+        height: 60px;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        justify-content: space-around;
+    }
 `

@@ -11,4 +11,8 @@ export const Container = styled.footer`
     align-items: center;
     background: rgb(0,204,204);
     background: linear-gradient(90deg, rgba(0,204,204,0.6446953781512605) 0%, rgba(41,41,41,100) 76%);
+    @media screen and (max-width: 1000px){
+        padding: 20px 20px;
+        text-align: center;
+    }
 `
